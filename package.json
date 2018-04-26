@@ -1,0 +1,11 @@
+{
+  "name": "mqtt-demo",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "mqtt": "^2.17.0"
+  }
+}
